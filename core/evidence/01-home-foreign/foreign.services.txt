@@ -1,0 +1,3 @@
+== services (wg/protonvpn) ==
+273:wg-quick@.service                            disabled        disabled
+417:wg-quick.target                              static          -

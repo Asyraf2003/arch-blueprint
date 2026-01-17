@@ -1,0 +1,3 @@
+total 8
+drwxr-xr-x 2 asyraf asyraf 4096 Dec 13 01:47 .
+drwxr-xr-x 5 asyraf asyraf 4096 Dec 13 01:47 ..

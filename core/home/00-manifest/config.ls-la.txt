@@ -1,0 +1,25 @@
+total 84
+drwx------ 20 asyraf asyraf 4096 Jan 11 20:06 .
+drwx------ 34 asyraf asyraf 4096 Jan 17 08:13 ..
+drwx------  3 asyraf asyraf 4096 Oct 14 04:46 BraveSoftware
+drwx------ 22 asyraf asyraf 4096 Dec 13 20:47 Code
+drwxr-xr-x 21 asyraf asyraf 4096 Jan 17 13:12 Code - OSS
+drwxr-xr-x  3 asyraf asyraf 4096 Nov 14 17:26 composer
+drwx------  2 asyraf asyraf 4096 Jan 11 19:49 dconf
+drwxr-xr-x  3 asyraf asyraf 4096 Oct 14 00:35 go
+drwxr-xr-x  3 asyraf asyraf 4096 Dec 10 11:44 gopls
+lrwxrwxrwx  1 asyraf asyraf   38 Nov 22 06:54 gtk-3.0 -> /home/asyraf/.dotfiles/.config/gtk-3.0
+drwx------  2 asyraf asyraf 4096 Dec  3 17:43 htop
+-rw-r--r--  1 asyraf asyraf  920 Jan 10 13:36 mimeapps.list
+drwx------  2 asyraf asyraf 4096 Oct 13 23:26 mpv
+drwxr-xr-x  4 asyraf asyraf 4096 Nov 22 02:22 obs-studio
+drwxr-xr-x  2 asyraf asyraf 4096 Nov 26 18:15 openbox
+lrwxrwxrwx  1 asyraf asyraf   38 Nov 22 06:48 openbox.backup-1764152000 -> /home/asyraf/.dotfiles/.config/openbox
+drwxr-xr-x  7 root   root   4096 Oct 14 03:22 pipewire
+drwx------  2 asyraf asyraf 4096 Jan  7 15:23 procps
+drwx------  2 asyraf asyraf 4096 Jan  5 16:15 psysh
+drwx------  2 asyraf asyraf 4096 Nov 22 05:59 pulse
+drwxr-xr-x  3 asyraf asyraf 4096 Jan 13 19:32 spotify
+lrwxrwxrwx  1 asyraf asyraf   37 Nov 22 06:52 Thunar -> /home/asyraf/.dotfiles/.config/Thunar
+drwxr-xr-x  3 asyraf asyraf 4096 Jan 17 06:01 xfce4
+drwxr-xr-x  2 asyraf asyraf 4096 Dec 14 06:45 yay

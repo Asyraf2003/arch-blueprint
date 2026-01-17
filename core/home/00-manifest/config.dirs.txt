@@ -1,0 +1,70 @@
+.config/BraveSoftware
+.config/BraveSoftware/Brave-Browser
+.config/Code
+.config/Code/Backups
+.config/Code/blob_storage
+.config/Code/Cache
+.config/Code/CachedConfigurations
+.config/Code/CachedData
+.config/Code/CachedExtensionVSIXs
+.config/Code/CachedProfilesData
+.config/Code/Code Cache
+.config/Code/Crashpad
+.config/Code/DawnGraphiteCache
+.config/Code/DawnWebGPUCache
+.config/Code/Dictionaries
+.config/Code/GPUCache
+.config/Code/Local Storage
+.config/Code/logs
+.config/Code - OSS
+.config/Code - OSS/Backups
+.config/Code - OSS/blob_storage
+.config/Code - OSS/Cache
+.config/Code - OSS/CachedData
+.config/Code - OSS/CachedProfilesData
+.config/Code - OSS/Code Cache
+.config/Code - OSS/Crashpad
+.config/Code - OSS/DawnGraphiteCache
+.config/Code - OSS/DawnWebGPUCache
+.config/Code - OSS/Dictionaries
+.config/Code - OSS/GPUCache
+.config/Code - OSS/Local Storage
+.config/Code - OSS/logs
+.config/Code - OSS/Service Worker
+.config/Code - OSS/Session Storage
+.config/Code - OSS/Shared Dictionary
+.config/Code - OSS/User
+.config/Code - OSS/WebStorage
+.config/Code - OSS/Workspaces
+.config/Code/Service Worker
+.config/Code/Session Storage
+.config/Code/Shared Dictionary
+.config/Code/User
+.config/Code/WebStorage
+.config/composer
+.config/composer/vendor
+.config/dconf
+.config/go
+.config/gopls
+.config/gopls/prompt
+.config/go/telemetry
+.config/htop
+.config/mpv
+.config/obs-studio
+.config/obs-studio/plugin_config
+.config/obs-studio/.sentinel
+.config/openbox
+.config/pipewire
+.config/pipewire/client.conf.avail
+.config/pipewire/filter-chain
+.config/pipewire/media-session.d
+.config/pipewire/pipewire.conf.avail
+.config/pipewire/pipewire-pulse.conf.avail
+.config/procps
+.config/psysh
+.config/pulse
+.config/spotify
+.config/spotify/Users
+.config/xfce4
+.config/xfce4/xfconf
+.config/yay

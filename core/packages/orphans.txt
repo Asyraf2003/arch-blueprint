@@ -1,0 +1,11 @@
+gst-libav
+patchelf
+protobuf
+python-build
+python-colorama
+python-docutils
+python-installer
+python-rsa
+python-s3transfer
+python-tzlocal
+rust

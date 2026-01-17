@@ -1,0 +1,21 @@
+# Secrets: NEVER commit real VPN configs / keys
+core/**/etc-snapshots/**/sudoers
+core/**/etc-snapshots/**/sudoers.d/
+core/**/etc-snapshots/**/NetworkManager/system-connections/
+core/**/etc-snapshots/**/wireguard/
+**/*.key
+**/*.pem
+**/*PrivateKey*
+**/*PresharedKey*
+**/*REVOKE_ME*
+# Allow safe templates/examples only
+!**/*.example
+!**/*.sample
+
+# Backups / editor droppings
+**/*.bak
+**/*.bak.*
+**/*~
+**/.swp
+**/.swo
+**/.DS_Store

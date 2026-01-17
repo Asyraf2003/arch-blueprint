@@ -1,0 +1,32 @@
+total 48
+drwxr-xr-x 12 root root 4096 Nov 14 14:38 .
+drwxr-xr-x  9 root root 4096 Jan 17 16:51 ..
+drwxr-xr-x  3 root root 4096 Nov 14 14:38 aws-cli
+drwxr-xr-x  2 root root 4096 Nov 14 14:38 bin
+drwxr-xr-x  2 root root 4096 May  4  2025 etc
+drwxr-xr-x  2 root root 4096 May  4  2025 games
+drwxr-xr-x  2 root root 4096 May  4  2025 include
+drwxr-xr-x  3 root root 4096 Jan 17 13:27 lib
+drwxr-xr-x  2 root root 4096 May  4  2025 man
+drwxr-xr-x  2 root root 4096 May  4  2025 sbin
+drwxr-xr-x  3 root root 4096 Jan 17 13:27 share
+drwxr-xr-x  2 root root 4096 May  4  2025 src
+
+drwxr-xr-x asyraf:asyraf 4096 2026-01-17 17:11 /usr/local/share/arch-blueprint
+drwxr-xr-x root:root 4096 2025-05-04 03:26 /usr/local/etc
+drwxr-xr-x root:root 4096 2025-05-04 03:26 /usr/local/games
+drwxr-xr-x root:root 4096 2025-05-04 03:26 /usr/local/include
+drwxr-xr-x root:root 4096 2025-05-04 03:26 /usr/local/man
+drwxr-xr-x root:root 4096 2025-05-04 03:26 /usr/local/sbin
+drwxr-xr-x root:root 4096 2025-05-04 03:26 /usr/local/src
+drwxr-xr-x root:root 4096 2025-11-14 14:38 /usr/local/aws-cli
+drwxr-xr-x root:root 4096 2025-11-14 14:38 /usr/local/aws-cli/v2
+drwxr-xr-x root:root 4096 2025-11-14 14:38 /usr/local/bin
+drwxr-xr-x root:root 4096 2026-01-17 13:27 /usr/local/lib
+drwxr-xr-x root:root 4096 2026-01-17 13:27 /usr/local/lib/arch-blueprint
+drwxr-xr-x root:root 4096 2026-01-17 13:27 /usr/local/share
+lrwxrwxrwx root:root 37 2025-11-14 14:38 /usr/local/bin/aws
+lrwxrwxrwx root:root 47 2025-11-14 14:38 /usr/local/bin/aws_completer
+lrwxrwxrwx root:root 6 2025-10-13 00:21 /usr/local/share/man
+-rwxr-xr-x asyraf:asyraf 433 2025-09-26 19:15 /usr/local/bin/mysqlctl
+-rwxr-xr-x root:root 1686 2025-10-14 04:13 /usr/local/bin/bat

@@ -1,0 +1,9 @@
+# Static table lookup for hostnames.
+# See hosts(5) for details.
+127.0.0.1        localhost
+::1              localhost
+127.0.0.1 	 arch.localdomain arch
+127.0.0.1   school.local
+127.0.0.1   commerce.local
+47.129.218.152 app1.asyrafff.my.id
+47.129.218.152 app2.asyrafff.my.id

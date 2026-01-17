@@ -1,0 +1,55 @@
+== reverse deps foreign candidates ==
+### cheese
+cheese
+### libcheese
+libcheese
+└─cheese
+### clutter
+clutter
+├─clutter-gst
+│ ├─cheese
+│ └─libcheese
+│   └─cheese
+├─clutter-gtk
+│ ├─cheese
+│ └─libcheese
+└─libcheese
+### clutter-gst
+clutter-gst
+├─cheese
+└─libcheese
+  └─cheese
+### clutter-gtk
+clutter-gtk
+├─cheese
+└─libcheese
+  └─cheese
+### cogl
+cogl
+└─clutter
+  ├─clutter-gst
+  │ ├─cheese
+  │ └─libcheese
+  │   └─cheese
+  ├─clutter-gtk
+  │ ├─cheese
+  │ └─libcheese
+  └─libcheese
+### gtk2
+gtk2
+└─gtkmm
+  └─nitrogen
+### gtkmm
+gtkmm
+└─nitrogen
+### nitrogen
+nitrogen
+### xwinwrap-git
+xwinwrap-git
+### wireguard-dkms
+wireguard-dkms
+### protonvpn-cli-community
+protonvpn-cli-community
+### python-pythondialog
+python-pythondialog
+└─protonvpn-cli-community
