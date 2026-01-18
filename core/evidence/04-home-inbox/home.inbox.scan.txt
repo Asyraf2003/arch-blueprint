@@ -1,0 +1,113 @@
+== home top ==
+total 232
+drwx------ 38 asyraf asyraf  4096 Jan 18 00:58 .
+drwxr-xr-x  3 root   root    4096 Sep 26 14:53 ..
+drwxr-xr-x  2 asyraf asyraf  4096 Jan 14 22:22 .aws
+-rw-------  1 asyraf asyraf 24574 Jan 17 18:30 .bash_history
+-rw-------  1 asyraf asyraf     0 Dec 13 07:43 .bash_history-01004.tmp
+-rw-------  1 asyraf asyraf 21257 Dec 17 00:00 .bash_history-01026.tmp
+-rw-r--r--  1 asyraf asyraf   120 Nov 24 13:21 .bash_profile
+-rw-r--r--  1 asyraf asyraf   162 Jan 10 14:20 .bashrc
+lrwxrwxrwx  1 asyraf asyraf    32 Nov 24 13:24 bin -> /home/asyraf/System/dotfiles/bin
+drwx------  7 asyraf asyraf  4096 Jan 17 18:28 .cache
+drwxr-xr-x  3 asyraf asyraf  4096 Dec 14 06:29 .cargo
+drwxr-xr-x  5 asyraf asyraf  4096 Nov 28 13:25 Cloud
+drwxr-xr-x  7 asyraf asyraf  4096 Nov 28 13:21 Code
+drwxr-xr-x 14 asyraf asyraf  4096 Nov 24 17:53 .codeium
+drwxr-xr-x  3 asyraf asyraf  4096 Nov 17 20:22 .codex
+drwx------ 20 asyraf asyraf  4096 Jan 11 20:06 .config
+-rw-r--r--  1 asyraf asyraf   202 Jan 14 22:52 cors.json
+drwxr-xr-x  4 asyraf asyraf  4096 Jan 18 00:58 data
+drwxr-xr-x  2 asyraf asyraf  4096 Nov 24 17:53 .devdb
+drwx------  3 asyraf docker  4096 Nov 22 08:07 .docker
+drwxr-xr-x  2 asyraf asyraf  4096 Jan  1 20:33 Documents
+drwxr-xr-x 11 asyraf asyraf  4096 Nov 22 07:01 .dotfiles
+drwxr-xr-x  3 asyraf asyraf  4096 Nov 22 17:47 .dotnet
+drwx------  3 asyraf asyraf  4096 Jan 17 08:13 Downloads
+drwxr-xr-x  3 asyraf asyraf  4096 Nov 17 18:35 .gemini
+-rw-r--r--  1 asyraf asyraf    58 Nov 22 11:02 .gitconfig
+-rw-r--r--  1 asyraf asyraf    97 Nov 22 02:22 .gitignore
+drwxr-xr-x  3 asyraf asyraf  4096 Dec 11 21:55 .gnome2
+drwx------  4 asyraf asyraf  4096 Jan 13 08:08 .gnupg
+drwxr-xr-x  4 asyraf asyraf  4096 Nov 30 00:20 go
+drwxr-xr-x  2 asyraf asyraf  4096 Jan 15 07:48 jidi
+drwxr-xr-x  5 asyraf asyraf  4096 Dec 13 01:47 .local
+drwxr-xr-x  4 asyraf asyraf  4096 Nov 26 18:19 Media
+drwxr-xr-x  4 asyraf asyraf  4096 Nov 22 18:10 .npm
+drwxr-xr-x  6 asyraf asyraf  4096 Dec 14 06:36 paru
+drwx------  3 asyraf asyraf  4096 Nov 22 05:59 .pki
+-rw-r--r--  1 asyraf asyraf   366 Jan 14 22:50 policy.json
+drwxr-xr-x  2 asyraf asyraf  4096 Jan 18 00:58 projects
+drwxr-xr-x  2 asyraf asyraf  4096 Jan 18 00:58 scratch
+drwx------  2 asyraf asyraf  4096 Jan 18 00:58 secrets
+drwx------  3 asyraf asyraf  4096 Dec 28 04:11 .ssh
+drwxr-xr-x  3 asyraf asyraf  4096 Nov 23 05:09 System
+drwx------  3 asyraf asyraf  4096 Nov 22 02:22 .telegram-cli
+drwxr-xr-x  2 asyraf asyraf  4096 Nov 16 12:05 .th-client
+drwxr-xr-x  4 asyraf asyraf  4096 Nov 22 06:00 .vscode
+drwxr-xr-x  3 asyraf asyraf  4096 Jan 11 20:06 .vscode-oss
+drwxr-xr-x  3 asyraf asyraf  4096 Dec 24 01:39 work
+-rw-------  1 asyraf asyraf    49 Jan 15 14:28 .Xauthority
+-rw-r--r--  1 asyraf asyraf    49 Nov 26 18:28 .xinitrc
+drwxr-xr-x  5 asyraf asyraf  4096 Dec 14 06:43 yay-bin
+
+== downloads top (first 200) ==
+total 160660
+drwx------  3 asyraf asyraf      4096 Jan 17 08:13 .
+drwx------ 38 asyraf asyraf      4096 Jan 18 00:58 ..
+-rw-r--r--  1 asyraf asyraf     56279 Dec 29 05:24 app2.sql
+-rw-r--r--  1 asyraf asyraf    140615 Dec 29 05:21 app.sql
+-rw-r--r--  1 asyraf asyraf    291097 Jan 12 18:41 bengkel2.sql
+-rw-r--r--  1 asyraf asyraf    278937 Jan 17 08:12 bengkel3.sql
+-rw-r--r--  1 asyraf asyraf    280167 Jan 14 00:53 bengkelnew.sql
+-rw-r--r--  1 asyraf asyraf    252173 Jan 11 00:15 bengkel.sql
+drwxr-xr-x  2 asyraf asyraf      4096 Jan 11 00:18 deploy
+-rw-r--r--  1 asyraf asyraf      1229 Dec 29 05:16 env
+-rw-r--r--  1 asyraf asyraf 138820626 Dec 29 16:34 EP1155-720p.mp4
+-rw-r--r--  1 asyraf asyraf      2782 Dec 28 19:10 home.html
+-rw-r--r--  1 asyraf asyraf       245 Dec 29 05:16 htaccess
+-rw-r--r--  1 asyraf asyraf       565 Dec 29 05:16 index.php
+-rw-r--r--  1 asyraf asyraf      1674 Jan 16 04:09 laravel-site.pem
+-rw-r--r--  1 asyraf asyraf    171438 Jan 14 19:52 logo-files.zip
+-rw-r--r--  1 asyraf asyraf        99 Jan 14 22:21 myAdmin_accessKeys.csv
+-rw-r--r--  1 asyraf asyraf    881422 Jan 13 23:06 report-daily-2026-01-02.pdf
+-rw-r--r--  1 asyraf asyraf    881430 Jan 13 23:07 report-daily-2026-01-03.pdf
+-rw-r--r--  1 asyraf asyraf       319 Jan 10 20:55 report-daily-2026-01-07.csv
+-rw-r--r--  1 asyraf asyraf    881441 Jan 14 00:43 report-daily-2026-01-10 (1).pdf
+-rw-r--r--  1 asyraf asyraf    881348 Jan 10 21:46 report-daily-2026-01-10.pdf
+-rw-r--r--  1 asyraf asyraf    881406 Jan 13 23:01 report-daily-2026-01-11.pdf
+-rw-r--r--  1 asyraf asyraf    881402 Jan 13 20:56 report-daily-2026-01-13 (1).pdf
+-rw-r--r--  1 asyraf asyraf    881481 Jan 13 21:06 report-daily-2026-01-13 (2).pdf
+-rw-r--r--  1 asyraf asyraf    881361 Jan 13 20:55 report-daily-2026-01-13.pdf
+-rw-r--r--  1 asyraf asyraf    881280 Jan 17 07:50 report-daily-2026-01-17 (1).pdf
+-rw-r--r--  1 asyraf asyraf    881281 Jan 17 07:51 report-daily-2026-01-17 (2).pdf
+-rw-r--r--  1 asyraf asyraf    881404 Jan 17 07:57 report-daily-2026-01-17 (3).pdf
+-rw-r--r--  1 asyraf asyraf    881282 Jan 17 07:43 report-daily-2026-01-17.pdf
+-rw-r--r--  1 asyraf asyraf    881538 Jan 13 22:45 report-monthly-2025-08 (1).pdf
+-rw-r--r--  1 asyraf asyraf    881538 Jan 13 22:50 report-monthly-2025-08 (2).pdf
+-rw-r--r--  1 asyraf asyraf    881509 Jan 13 20:52 report-monthly-2025-08.pdf
+-rw-r--r--  1 asyraf asyraf    881507 Jan 13 22:50 report-monthly-2025-09.pdf
+-rw-r--r--  1 asyraf asyraf    881519 Jan 13 22:50 report-monthly-2025-10.pdf
+-rw-r--r--  1 asyraf asyraf    881674 Jan 13 21:10 report-monthly-2025-11 (1).pdf
+-rw-r--r--  1 asyraf asyraf    881519 Jan 13 22:50 report-monthly-2025-11 (2).pdf
+-rw-r--r--  1 asyraf asyraf    881664 Jan 13 21:06 report-monthly-2025-11.pdf
+-rw-r--r--  1 asyraf asyraf    881541 Jan 13 21:34 report-monthly-2025-12 (1).pdf
+-rw-r--r--  1 asyraf asyraf    881520 Jan 13 22:39 report-monthly-2025-12 (2).pdf
+-rw-r--r--  1 asyraf asyraf    881528 Jan 13 22:50 report-monthly-2025-12 (3).pdf
+-rw-r--r--  1 asyraf asyraf    881504 Jan 10 21:49 report-monthly-2025-12.pdf
+-rw-r--r--  1 asyraf asyraf    881502 Jan 13 22:49 report-monthly-2026-01 (1).pdf
+-rw-r--r--  1 asyraf asyraf    881501 Jan 13 22:50 report-monthly-2026-01 (2).pdf
+-rw-r--r--  1 asyraf asyraf      1929 Jan 13 21:04 report-monthly-2026-01.pdf
+-rw-r--r--  1 asyraf asyraf    881494 Jan 17 08:06 report-weekly-2026-01-12_to_2026-01-18.pdf
+-rw-r--r--  1 asyraf asyraf      3525 Dec 29 06:28 symlink.php
+-rw-r--r--  1 asyraf asyraf    141186 Jan  2 11:49 WhatsApp Image 2025-12-31 at 18.51.36.jpeg
+-rw-r--r--  1 asyraf asyraf    126925 Jan  2 11:48 WhatsApp Image 2025-12-31 at 19.22.54.jpeg
+
+== likely-secrets in home+downloads ==
+-r-------- asyraf:asyraf 1678 2025-12-28 01:03 /home/asyraf/.ssh/testing.pem
+-rw------- asyraf:asyraf 116 2026-01-14 22:22 /home/asyraf/.aws/credentials
+-rw------- asyraf:asyraf 244 2025-11-14 14:16 /home/asyraf/.aws/credentials.bak.1768400213
+-rw-r--r-- asyraf:asyraf 1674 2026-01-16 04:09 /home/asyraf/Downloads/laravel-site.pem
+-rw-r--r-- asyraf:asyraf 1674 2026-01-16 04:09 /home/asyraf/Downloads/laravel-site.pem
+-rw-r--r-- asyraf:asyraf 99 2026-01-14 22:21 /home/asyraf/Downloads/myAdmin_accessKeys.csv
+-rw-r--r-- asyraf:asyraf 99 2026-01-14 22:21 /home/asyraf/Downloads/myAdmin_accessKeys.csv
